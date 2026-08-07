@@ -50,7 +50,7 @@ class SafariExtensionHandler: SFSafariExtensionHandler {
                 return
             }
 
-            activeTab.navigate(to: addURL)
+            _ = await window.openTab(with: addURL, makeActiveIfPossible: true)
         }
 
 //        window.getActiveTab { tab in
