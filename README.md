@@ -1,3 +1,3 @@
-# ArchiveBox Extension
+# ArchiveBox Safari Extension
 
 ArchiveBox extension for Safari.
