@@ -1,0 +1,7 @@
+**.xcuserdatad
+.DS_Store
+.env
+.nova
+build
+temp
+xcuserdata/
